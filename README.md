@@ -1,4 +1,4 @@
-# cnrad's next.js template
+next.js template
 
 Next.js template using TypeScript + useful packages. Kickstart productivity, without the hassle of having to set up and configure a new project.
 
