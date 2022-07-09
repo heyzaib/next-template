@@ -4,7 +4,7 @@ Next.js template using TypeScript + useful packages. Kickstart productivity, wit
 
 ## Getting Started
 
-Run `git clone https://github.com/cnrad/next-template.git .` to setup the project in your current folder.
+Run `git clone https://github.com/heyzaib/next-template.git .` to setup the project in your current folder.
 
 -   (or click the "use this template" on this repository page)
 
